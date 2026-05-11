@@ -1,6 +1,3 @@
-# TP INTEGRADOR - ABIGAIL OCHOA
-JUEGO SIM CITY BY ABBY
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
