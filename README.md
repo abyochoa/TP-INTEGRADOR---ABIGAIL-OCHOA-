@@ -41,6 +41,7 @@ class Edificio {
         return precio;
     }
 }
+
 class Alcalde {
     private String nombre;
     private String apellido;
