@@ -50,7 +50,7 @@ class Alcalde {
     public Alcalde(String nombre, String apellido) {
         this.nombre = nombre;
         this.apellido = apellido;
-        this.dinero = 1000000; // Dinero inicial
+        this.dinero = 1000000; 
     }
 
     public String getNombre() {
